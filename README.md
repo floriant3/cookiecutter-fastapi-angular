@@ -53,7 +53,7 @@ You can look at that and see how the CI/CD jobs ran and how the project actually
 
 2. Make some cookies
 
-`cookiecutter https://github.com/bubthegreat/cookiecutter-angular-fastapi`
+`cookiecutter https://github.com/floriant3/cookiecutter-fastapi-angular`
 
 3. Follow the prompts for the project name.  Right now it only supports python snake_case or it'll break the python packaging.
 
